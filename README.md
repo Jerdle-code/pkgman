@@ -9,4 +9,4 @@ The removal part removes every file in the list.
 
 
 This program is in a **PRE-ALPHA** state.
-It is completely untested and **WILL* probably destroy your system.
+It is completely untested and **WILL** probably destroy your system.
