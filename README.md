@@ -5,5 +5,8 @@ It only works on Un*x and has not been tested. A malicious package could destroy
 This program untars a .pkg.tgz file and untars a _data.pkg.tgz to /.
 A list of the files is added to a directory (/usr/share/pkgman/installed/), so that the package can be removed.
 The removal part removes every file in the list.
+
+
+
 This program is in a **PRE-ALPHA** state.
 It is completely untested and **WILL* probably destroy your system.
